@@ -1,8 +1,10 @@
 const tripsData = [
   {
     id: 1,
+
     name: "Petra Hike",
     city: "maan",
+
     slug: "petra-hike",
     length1: "10",
     difficulty: "easy",
